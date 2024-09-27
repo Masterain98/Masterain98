@@ -1,5 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masterain98&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Genshin Stats](https://genshincard.qhy04.com/rand/182465392.png)](https://enka.network/u/107847862/)
+
 Hey, this is Masterain. Thanks for checking out my GitHub profile. 
 
 I'm a new graduated student from SCU, MS in Information Systems program. I focus on data analysis works, programming is my hobby. Practicality, compatibility, and automation extensibility are things I consider more when designing programs, because what usually drives me to design programs are the boring things in life that need to be done repeatedly. Similarly, standardized processes and automated validation are my approach to managing projects, as I see these as lessons learned and best practices in real action.
