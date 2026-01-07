@@ -6,37 +6,11 @@ Hey, this is Masterain. Thanks for checking out my GitHub profile 😀
 
 ## 🧪 My Development Studio
 
-### 🖥️ Development PC
-
-| Component | Spec |
-|----------|------|
-| **CPU** | AMD Ryzen 9950X3D |
-| **Memory** | 96GB DDR5 |
-| **GPU** | NVIDIA RTX 4070 Ti |
-| **Storage** | 2× Samsung 970 Evo Plus 2TB |
-| **OS** | Windows 10 |
-
----
-
-### 🧰 Home Lab (Virtualization)
-
-| Component | Spec |
-|----------|------|
-| **CPU** | Intel i9-7900X |
-| **Memory** | 64GB DDR4 |
-| **Storage** | Samsung 990 Pro 1TB |
-| **OS** | VMware ESXi |
-
----
-
-### 🗄️ Main Server (Self-Hosted)
-
-| Component | Spec |
-|----------|------|
-| **CPU** | AMD Ryzen 9950X |
-| **Memory** | 128GB DDR5 |
-| **Storage** | Samsung 990 Pro 4TB |
-| **OS** | Proxmox VE |
+| Device                            | CPU               | Memory         | GPU                | Storage                          | OS          |
+| ----------------------------- | ----------------- | ---------- | ------------------ | --------------------------- | ----------- |
+| 🖥️ Development PC            | AMD Ryzen 9950X3D | 96GB DDR5  | NVIDIA RTX 4070 Ti | 2× Samsung 970 Evo Plus 2TB | Windows 10  |
+| 🧰 Home Lab  | Intel i9-7900X    | 64GB DDR4  | —                  | Samsung 990 Pro 1TB         | VMware ESXi |
+| 🗄️ Main Server | AMD Ryzen 9950X   | 128GB DDR5 | —                  | Samsung 990 Pro 4TB         | Proxmox VE  |
 
 ---
 
