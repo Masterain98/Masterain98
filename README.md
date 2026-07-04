@@ -20,13 +20,14 @@ Hey, this is Masterain. Thanks for checking out my GitHub profile 😀
 - JetBrains **IntelliJ IDEA**
 
 ### 🪐 AI IDE
-- **Google Antigravity**
-- **ChatGPT Codex Web**
+- **Antigravity IDE**
+- **Codex**
 
 ### 🤖 AI Models
 - **OpenAI o1**
 - **OpenAI GPT5-Codex**
 - **Claude Opus 4.5**
+- **OpenAI GPT-5.5**
 
 ### 📜 AI Workflow
 - Research with GPT
