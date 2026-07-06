@@ -26,7 +26,7 @@ Hey, this is Masterain. Thanks for checking out my GitHub profile 😀
 ### 🤖 AI Models
 - **OpenAI o1**
 - **OpenAI GPT5-Codex**
-- **Claude Opus 4.5**
+- **Claude Opus 4.5/4.6**
 - **OpenAI GPT-5.5**
 
 ### 📜 AI Workflow
